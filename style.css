@@ -1,5 +1,5 @@
 body{
-background-color: #8f2921; /* Cor de fundo cinza claro */
+background-color: #0a4b1a; /* Cor de fundo cinza claro */
     font-family: Arial, sans-serif;
     color: #fcfcfc; /* Cor do texto geral */
 }
@@ -7,7 +7,7 @@ background-color: #8f2921; /* Cor de fundo cinza claro */
 h1 {
     background-color: #f6f7f8; /* Fundo azul escuro */
     color: #02380a;            /* Texto branco */
-    text-align: justify;        /* Alinhamento ao centro */
+    text-align: center;        /* Alinhamento ao centro */
     padding: 20px;             /* Espaço interno para o texto respirar */
 }
 
