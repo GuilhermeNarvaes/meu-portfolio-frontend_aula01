@@ -1,0 +1,24 @@
+body{
+background-color: #8f2921; /* Cor de fundo cinza claro */
+    font-family: Arial, sans-serif;
+    color: #fcfcfc; /* Cor do texto geral */
+}
+
+h1 {
+    background-color: #f6f7f8; /* Fundo azul escuro */
+    color: #02380a;            /* Texto branco */
+    text-align: justify;        /* Alinhamento ao centro */
+    padding: 20px;             /* Espaço interno para o texto respirar */
+}
+
+p {
+    text-align: center;        /* Texto centralizado */
+    color: #f0f3f7;            /* Tom de cinza para o texto */
+}
+
+ul {
+    background-color: #8b2828; /* Fundo branco para a lista */
+    padding: 20px;
+    width: 250px;              /* Largura da caixa */
+    margin: 0 auto;            /* Centraliza a caixa da lista na tela */
+}
