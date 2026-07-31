@@ -31,8 +31,8 @@ ul {
 }
 
 .img-perfil {
-    width: 50px;            /* Largura exata da foto */
-    height: 50px;           /* Altura igual à largura (para ser um quadrado perfeito) */
+    width: 100px;            /* Largura exata da foto */
+    height: 100px;           /* Altura igual à largura (para ser um quadrado perfeito) */
     object-fit: cover;       /* Ajusta a foto sem distorcer o rosto */
     border-radius: 50%;      /* O TRUQUE: Transformando a foto quadrada em um círculo perfeito! */
     border: 4px solid #ffffff; /* Borda branca estilizada em volta da foto */
