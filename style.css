@@ -7,7 +7,7 @@ background-color: #0a4b1a; /* Cor de fundo cinza claro */
 h1 {
     background-color: #f6f7f8; /* Fundo azul escuro */
     color: #02380a;            /* Texto branco */
-    text-align: left;        /* Alinhamento ao centro */
+    text-align: center;        /* Alinhamento ao centro */
     padding: 20px;             /* Espaço interno para o texto respirar */
 }
 
@@ -31,8 +31,8 @@ ul {
 }
 
 .img-perfil {
-    width: 100px;            /* Largura exata da foto */
-    height: 100px;           /* Altura igual à largura (para ser um quadrado perfeito) */
+    width: 130px;            /* Largura exata da foto */
+    height: 130px;           /* Altura igual à largura (para ser um quadrado perfeito) */
     object-fit: cover;       /* Ajusta a foto sem distorcer o rosto */
     border-radius: 50%;      /* O TRUQUE: Transformando a foto quadrada em um círculo perfeito! */
     border: 4px solid #ffffff; /* Borda branca estilizada em volta da foto */
